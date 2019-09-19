@@ -7,5 +7,6 @@ dependencies:
   - numpy
   - voila=0.1.10
   - ipympl
+  - ipython
 
 
